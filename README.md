@@ -1,6 +1,6 @@
-#PREABMBLE
+#PREAMBLE / LISCENSE
 
-Hi! I'm BeeTheThird, and this repository is the home of my amateur indie game projects. All of the micro-games in this repo are made using Godot 4.7+ and using exclusively GDscript. 
+Hi! I'm BeeTheThird, and this repository is the home of my amateur indie game projects. All of the micro-games in this repo are made using Godot 4.7+ and using exclusively GDscript. This repository is under the MIT license; feel free to use any and all of the code herein if it's helpful to you! 
 
 #PROJECT OUTLINES & ROADMAP
 
