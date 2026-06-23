@@ -2,9 +2,9 @@
 
 Hi! I'm BeeTheThird, and this repository is home to my amateur indie game projects. All of the micro-games in this repo are made with Godot 4.7, using exclusively GDScript. I am an ***utter beginner*** and a hobbyist, so nothing here is likely to revolutionize the world of indie development. However, in the case anything I make along this learning journey could be of use to a fellow dabbler, I want my process to be transparent and my code to be open-source (if only to show that *anyone* can make games!). 
 
-That's why this repository is under the MIT License. Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own public-facing project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
+That's why this repository is under the [MIT License](./LICENSE). Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own public-facing project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
 
-Disclaimer: Absolutely ***NO AI*** was used in the production of any code or asset in this repository. Claude was occasionally used for brainstorming / troubleshooting, but all code is 100% written by me. Assets were either drawn by me or downloaded for free from sites such as Itch.io, Kenney.nl, and OpenGameArt.org. I tried my best to ensure that none of the art that I sourced from these sites was AI-generated. 
+Disclaimer: Absolutely ***NO AI*** was used in the production of any code or asset in this repository. Claude was occasionally used for brainstorming / troubleshooting, but all code is 100% written by me. Assets were either drawn by me or downloaded for free from sites such as [Itch.io](https://Itch.io), [Kenney.nl](https://kenney.nl), and [OpenGameArt.org](https://OpenGameArt.org). I tried my best to ensure that none of the art that I sourced from these sites was AI-generated. 
 
 ## PROJECT OUTLINES & ROADMAP
 
