@@ -4,7 +4,7 @@ Hi! I'm BeeTheThird, and this repository is home to my amateur indie game projec
 
 That's why this repository is under the MIT License. Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own public-facing project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
 
-Disclaimer: Absolutely ***NO AI** was used in the production of any code in this repository. It's human-made, warts and all.
+Disclaimer: Absolutely ***NO AI*** was used in the production of any code in this repository. Claude was occasionally used for brainstorming / troubleshooting, but all code herein was 100% written by me.
 
 ## PROJECT OUTLINES & ROADMAP
 
