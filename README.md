@@ -1,8 +1,8 @@
 ## PREAMBLE / LICENSE
 
-Hi! I'm BeeTheThird, and this repository is home to my amateur indie game projects. All of the micro-games in this repo are made with Godot 4.7+ and using exclusively GDScript. 
+Hi! I'm BeeTheThird, and this repository is home to my amateur indie game projects. All of the micro-games in this repo are made with Godot 4.7, using exclusively GDScript. I am an ***utter beginner*** and a hobbyist, so nothing here is likely to revolutionize the world of indie develeopment. However, if anything I make along this learning journey could be of use, I want it to be accesible and open-source (if only to see what mistakes I made so you can avoid them!). 
 
-This repository is under the MIT license. Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
+That's why this repository is under the MIT License. Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own public-facing project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
 
 ## PROJECT OUTLINES & ROADMAP
 
