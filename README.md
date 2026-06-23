@@ -4,7 +4,7 @@ Hi! I'm BeeTheThird, and this repository is home to my amateur indie game projec
 
 That's why this repository is under the [MIT License](./LICENSE). Essentially, that means you are free to use the contents of this repo as you see fit - commercially or otherwise! If you do utilize any part of this repository for your own public-facing project, your only obligation is to ***include a copy of the copyright notice and MIT License*** that can be found in the 'LICENSE' file above. :)
 
-Disclaimer: Absolutely ***NO AI*** was used in the production of any code or asset in this repository. Claude was occasionally used for brainstorming / troubleshooting, but all code is 100% written by me. Assets were either drawn by me or downloaded for free from sites such as [Itch.io](https://Itch.io), [Kenney.nl](https://Kenney.al), and [OpenGameArt.org](https://OpenGameArt.org). I tried my best to ensure that none of the art that I sourced from these sites was AI-generated. 
+Disclaimer: Absolutely ***NO AI*** was used in the production of any code or asset in this repository. Claude was occasionally used for brainstorming / troubleshooting, but all code is 100% written by me. Assets were either drawn by me or downloaded for free from sites such as [Itch.io](https://Itch.io), [Kenney.nl](https://kenney.nl), and [OpenGameArt.org](https://OpenGameArt.org). I tried my best to ensure that none of the art that I sourced from these sites was AI-generated. 
 
 ## PROJECT OUTLINES & ROADMAP
 
